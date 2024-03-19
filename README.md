@@ -1,2 +1,5 @@
-# PracticalProposal1_LDP
-Practica numero 1 para el curso Lenguajes de Programacion.
+# Informacion de la Practica
+**Miembros del equipo:** Juan Miguel Ramírez Toro, Juan José Gómez Ramírez
+**Lenguaje:** Java
+**Version del compilador:** Amazon Correto version 17.0.10
+**IDE utilizada:** IntelliJ IDEA 2023.3.4

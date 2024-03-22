@@ -2,4 +2,4 @@
 **Miembros del equipo:** Juan Miguel Ramírez Toro, Juan José Gómez Ramírez
 **Lenguaje:** Java
 **Version del compilador:** Amazon Correto version 17.0.10
-**IDE utilizada:** IntelliJ IDEA 2023.3.4
+**IDE utilizada:** Visual Studio Code
